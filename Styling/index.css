@@ -1,0 +1,9 @@
+@font-face {
+    src: url("../Assets/Fonts/nasalization.otf");
+    font-family: Nasalization;
+}
+
+body {
+    text-align: center;
+    font-family: Nasalization;
+}
